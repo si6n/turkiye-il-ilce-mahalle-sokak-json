@@ -1,4 +1,1 @@
-# turkiye-il-ilce-mahalle-sokak-json
-# turkiye-il-ilce-mahalle-sokak-json
-# turkiye-il-ilce-mahalle-sokak-json
-# turkiye-il-ilce-mahalle-sokak-json
+# Projede kullanılan dataset melihozkara/il-ilce-mahalle-sokak-veritabani reposundan alınmıştır.
