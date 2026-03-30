@@ -111,8 +111,6 @@ Bu proje orijinal veri kaynağının lisansına uygun olarak dağıtılmaktadır
 
 ## ⭐ Beğendiyseniz
 
-Bu projeyi faydalı bulduysanız lütfen bir yıldız (⭐) vermeyi unutmayın!
+Bu projeyi faydalı bulduysanız lütfen bir yıldız (⭐) vermeyi unutmayın.
 
 ---
-
-**Sorular veya sorunlar için:** [Issue](https://github.com/si6n/turkiye-il-ilce-mahalle-sokak-json/issues) açınız.
